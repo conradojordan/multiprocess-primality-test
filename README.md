@@ -1,4 +1,4 @@
-# Multithread primality check
+# Multithread primality test
 
 This program checks the primality of an integer number using a multithread method.
 It uses the maximum number of available CPU cores and creates a thread for each.
